@@ -1,6 +1,3 @@
-[submodule "themes/steam"]
-	path = themes/steam
-	url = https://github.com/digitalcraftsman/hugo-steam-theme.git
 [submodule "public"]
 	path = public
 	url = git@github.com:lukewestby/lukewestby.github.io.git

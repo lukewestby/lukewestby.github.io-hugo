@@ -1,14 +1,14 @@
 baseurl = "http://lukewestby.com/"
 languageCode = "en-us"
-title = "Don't laugh"
+title = "Trouble (::)entrating"
 theme = "steam"
 # disqusShortname = "spf13"
 paginate = 10
 
 [params]
 
-	title = "In which"
-	subtitle = "Luke tries too hard to be funny while talking about code"
+	title = "Trouble (::)entrating"
+	subtitle = "Programming for regular people."
 	copyright = "Released under the MIT license."
 
 	# You can choose between green, orange, red and blue.
