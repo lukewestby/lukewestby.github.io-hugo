@@ -142,11 +142,11 @@ tester =
     |> toRegex
 ```
 
- Every call in the pipeline above is just a function which ultimately operates
-on some configuration builder which we can ultimately transform into a result
-which would have been harder to obtain on its own. In the case of `elm-http` it
-was a `Task a b` for the request result which took a lot of configuration, and
-in this case it is a `Regex` which would have required a hard-to-understand
+Every call in the pipeline above is just a function which operates on some
+configuration builder which we can ultimately transform into a result which
+would have been harder to obtain on its own. In the case of `elm-http` it was a
+`Task a b` for the request result which took a lot of configuration, and in
+this case it is a `Regex` which would have required a hard-to-understand
 regular expression string.
 
 Let's try and generalize a few things about this pattern. The process of using a
