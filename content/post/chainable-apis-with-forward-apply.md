@@ -3,7 +3,7 @@ date = "2016-02-27T11:36:18-06:00"
 title = "Chainable APIs with the forward apply operator"
 linktitle = "Chainable APIs with the forward apply operator"
 weight = 1
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum similique, ipsum officia amet blanditiis provident ratione nihil ipsam dolorem repellat."
+description = "What do we do when configuration objects grow large or hard to understand? In this article we'll examine some cases where this happens and how to use the forward apply operator with some basic patterns create beautifully readable configuration builders."
 tags = [
   "elm"
 ]
