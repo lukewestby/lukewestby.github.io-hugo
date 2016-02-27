@@ -50,14 +50,14 @@ result =
   Http.send settings request
 ```
 
-This is a pretty obnoxious amount of work to send a request with parameters that
-are not too far outside the norm. This is, of course, as it should be as
+ This is a pretty obnoxious amount of work to send a request with parameters
+that are not too far outside the norm. This is, of course, as it should be as
 `elm-http` is intended to be a low-level interface to `XMLHttpRequest` in Elm
 and not anything fancy or expressive. But as humans we want something that is
-easy to read and understand. This is why I build `elm-http-extra`, and it will
+easy to read and understand. This is the intention of
+[`elm-http-extra`](https://github.com/lukewestby/elm-http-extra), and it will
 serve as an excellent example of using `(|>)` to build configuration as needed
 instead of supplying it all at once.
-
 A roughly equivalent request using `elm-http-extra` looks like the following:
 
 ```elm
@@ -119,10 +119,11 @@ like APIs without all of the complexity of an actual DSL because everything is
 just a function with a very specific type of interface. This even allows us to
 abstract actual DSLs in a much nicer and easier-to-understand way. Consider
 regular expressions, the confusing DSL to end them all. Using this technique
-with the `elm-verbal-expressions` package we can express a `Regex` using a
-human-readable, chainable interface. Instead of constantly re-learning regular
-expressions to match something simple like a correctly formatted url, we can
-write the following:
+with the
+[`elm-verbal-expressions`](https://github.com/verbalexpressions/elm-verbal-expressions)
+package we can express a `Regex` using a human-readable, chainable interface.
+Instead of constantly re-learning regular expressions to match something simple
+like a correctly formatted url, we can write the following:
 
 ```elm
 import Regex exposing (Regex)
