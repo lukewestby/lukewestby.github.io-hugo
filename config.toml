@@ -2,7 +2,7 @@ baseurl = "http://lukewestby.com/"
 languageCode = "en-us"
 title = "Trouble (::)entrating"
 theme = "steam"
-# disqusShortname = "spf13"
+disqusShortname = "lukewestby"
 paginate = 10
 
 [params]
