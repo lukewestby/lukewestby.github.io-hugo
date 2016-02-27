@@ -83,7 +83,7 @@ The advantages of the above are as follows:
 - We can easily remove the final `send` and express the whole configuration
   building process as a separate function that is easy to test by doing
   equality comparison on the output.
-- We can combine existing operators into more high-level one that are totally
+- We can combine existing operators into more high-level ones that are totally
   reusable.
 
 As an example of the final point, we can extract the headers out into a separate
