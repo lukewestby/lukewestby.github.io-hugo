@@ -20,7 +20,7 @@ paginate = 10
 	# feel free to add a few information about you and your website.
 	name = "Luke Westby"
 	bio = "Hi! I'm Luke. I'm a JavaScript developer at Raise in Chicago, IL, USA (we're hiring!). Even though JavaScript pays the bills, my real passion is Elm. I try to be as active as I can in the Elm community through [open source contribution](https://github.com/lukewestby), [community engagement](https://meetup.com/chicago-elm), and writing. Are you new to Elm and have questions about the language? Submit your topic [here](http://goo.gl/forms/u7QcFUuxsc) or bug me on [twitter](https://twitter.com/luke_dot_js)."
-	description = "This is literally the worst thing you'll ever read in your life"
+	description = "A code blog of questionable quality by Luke"
 	location = "" # optional
 	twitter = "luke_dot_js" # optional
 	github = "lukewestby" # optional
