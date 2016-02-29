@@ -12,7 +12,7 @@ tags = [
 ]
 +++
 
-- http://package.elm-lang.org/packages/lukewestby/elm-http-extra/latest
+- http://package.elm-lang.org/packages/lukewestby/elm-http-extra/5.0.0
 - https://github.com/lukewestby/elm-http-extra
 
 
