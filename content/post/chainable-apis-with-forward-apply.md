@@ -9,7 +9,6 @@ tags = [
 ]
 +++
 
-
 The `(|>)` operator is, in my opinion, one of the most elegant features of the
 Elm language. It lets us read function applications in the order the actually
 happen and this readability gain can have a hugely positive influence on our API
