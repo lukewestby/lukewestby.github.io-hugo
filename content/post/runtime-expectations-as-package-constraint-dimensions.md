@@ -8,7 +8,9 @@ tags = [
   "versions",
   "compatibility",
   "env",
-  "package managers"
+  "package managers",
+  "javascript",
+  "elm"
 ]
 +++
 
