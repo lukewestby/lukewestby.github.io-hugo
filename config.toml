@@ -19,9 +19,9 @@ paginate = 10
 	# To provide some metadata for search engines and the about section in the footer
 	# feel free to add a few information about you and your website.
 	name = "Luke Westby"
-	bio = "Hi! I'm Luke. I'm a JavaScript developer at Raise in Chicago, IL, USA (we're hiring!). Even though JavaScript pays the bills, my real passion is Elm. I try to be as active as I can in the Elm community through [open source contribution](https://github.com/lukewestby), [community engagement](https://meetup.com/chicago-elm), and writing. Are you new to Elm and have questions about the language? Submit your topic [here](http://goo.gl/forms/u7QcFUuxsc) or bug me on [twitter](https://twitter.com/luke_dot_js)."
+	bio = "Hi! I'm Luke. I'm a Partner at [HumbleSpark](https://humblespark.com) in Chicago, IL, USA and an avid fan of the [Elm programming language](http://elm-lang.org). I try to be as active as I can in the Elm community through [open source contribution](https://github.com/lukewestby), [community engagement](https://meetup.com/chicago-elm), writing, and speaking. Are you new to Elm and have questions about the language? Submit your topic [here](http://goo.gl/forms/u7QcFUuxsc) or reach out on [twitter](https://twitter.com/luke_dot_js)."
 	description = "A code blog of questionable quality by Luke"
-	location = "" # optional
+	location = "Chicago, IL, USA" # optional
 	twitter = "luke_dot_js" # optional
 	github = "lukewestby" # optional
 
